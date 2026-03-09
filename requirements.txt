@@ -2,3 +2,5 @@ streamlit
 groq
 PyPDF2
 fpdf2
+streamlit-option-menu
+requests
